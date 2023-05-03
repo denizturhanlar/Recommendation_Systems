@@ -25,11 +25,19 @@ For Rating
 
 # Tasks
 - User-Based
- Task 1: Data Preparation
- Task 2: Determining the Movies Watched by the User to Suggest
+
+Task 1: Data Preparation
+
+Task 2: Determining the Movies Watched by the User to Suggest
+
 Task 3: Accessing Data and Ids of Other Users Watching the Same Movies
+
 Task 4: Identifying Users Who Are Most Similar to the User to Suggest
+
 Task 5: Calculating the Weighted Average Recommendation Score and Keeping the Top 5 Movies
 
+
 - Item-based
+
 Task 1: Make an item-based suggestion based on the last and highest rated movie the user watched.
+
