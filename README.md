@@ -1,4 +1,7 @@
 # Hybrid Recommender System (Item Based & User Based)
+
+![GİRHUB FOTO](https://user-images.githubusercontent.com/126112467/235902366-e2df8b1c-4043-4d3d-a0d0-ff8f2ad8363e.png)
+
 # Business Problem
 Use the item-based and user-based recommendation methods to make a guess as to which user the ID belongs to. Make 10 suggestions overall by taking into account
 5 suggestions from the user-based model, 5 suggestions from the item-based model, and 10 suggestions from both models.Make a guess for the user whose ID is given,
@@ -24,7 +27,7 @@ For Rating
 - timestamp : Date and time when
 
 # Tasks
-- User-Based
+User-Based
 
 - Task 1: Data Preparation
 - Task 2: Determining the Movies Watched by the User to Suggest
